@@ -1,0 +1,77 @@
+﻿<Window x:Class="CRM_System_Development_Plan.EngagementLogForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRM_System_Development_Plan"
+        mc:Ignorable="d"
+        Title="Engagement Log" Height="700" Width="1000" WindowStartupLocation="CenterScreen" Background="#F5F5F5">
+    <Grid Margin="20">
+        <!-- Outer Border -->
+        <Border Background="White" CornerRadius="10" Padding="15" BorderBrush="#D3D3D3" BorderThickness="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <!-- Header -->
+                <TextBlock Text="Engagement Log Management" FontSize="24" FontWeight="Bold" Foreground="#333"
+                           HorizontalAlignment="Center" Margin="0,0,0,20" />
+
+                <!-- DataGrid -->
+                <DataGrid x:Name="dgEngagementLogs" Grid.Row="1" AutoGenerateColumns="False" Margin="0,10,0,10"
+           CanUserAddRows="False" SelectionMode="Single"  SelectionUnit="FullRow" BorderBrush="#D3D3D3" BorderThickness="1"
+                          SelectionChanged="dgEngagementLogs_SelectionChanged" IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Log ID" Binding="{Binding LogID}" Width="50" />
+                        <DataGridTextColumn Header="Member ID" Binding="{Binding MemberID}" Width="70" />
+                        <DataGridTextColumn Header="Member Name" Binding="{Binding MemberName}" Width="150" />
+                        <DataGridTextColumn Header="Event ID" Binding="{Binding EventID}" Width="70" />
+                        <DataGridTextColumn Header="Event" Binding="{Binding EventName}" Width="150" />
+                        <DataGridTextColumn Header="Type" Binding="{Binding EngagementType}" Width="150" />
+                        <DataGridTextColumn Header="Date" Binding="{Binding EngagementDate}" Width="100" />
+                    </DataGrid.Columns>
+                </DataGrid>
+             
+                <!-- Form Inputs -->
+                <StackPanel Grid.Row="2" Orientation="Vertical" Margin="0,10,0,0">
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Member:" Width="120" VerticalAlignment="Center" />
+                        <ComboBox x:Name="cbMember" Width="300" Padding="5" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Event:" Width="120" VerticalAlignment="Center" />
+                        <ComboBox x:Name="cbEvent" Width="300" Padding="5" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Engagement Type:" Width="120" VerticalAlignment="Center" />
+                        <ComboBox x:Name="cbEngagementType" Width="300" Padding="5">
+                            <ComboBoxItem>Meeting</ComboBoxItem>
+                            <ComboBoxItem>Phone Call</ComboBoxItem>
+                            <ComboBoxItem>Email</ComboBoxItem>
+                            <ComboBoxItem>Event Attendance</ComboBoxItem>
+                        </ComboBox>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Engagement Date:" Width="120" VerticalAlignment="Center" />
+                        <DatePicker x:Name="dpEngagementDate" Width="300" />
+                    </StackPanel>
+
+                    <!-- Buttons for Add, Edit, Delete -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                        <Button Content="Add" Width="150" Height="35" Margin="10" Background="#4CAF50" 
+                                Foreground="White" FontWeight="Bold" BorderBrush="#4CAF50" Click="btnAddEngagement_Click" />
+                        <Button Content="Edit" Width="150" Height="35" Margin="10" Background="#FFC107" 
+                                Foreground="White" FontWeight="Bold" BorderBrush="#FFC107" Click="btnEditEngagement_Click" />
+                        <Button Content="Delete" Width="150" Height="35" Margin="10" Background="#F44336" 
+                                Foreground="White" FontWeight="Bold" BorderBrush="#F44336" Click="btnDeleteEngagement_Click" />
+                    </StackPanel>
+                </StackPanel>
+
+                
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
