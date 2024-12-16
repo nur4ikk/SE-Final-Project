@@ -1,0 +1,174 @@
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.exe.config
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.exe
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.pdb
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.dll
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.dll
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.xml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.xml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\LoginForm.g.cs
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\MainWindow.g.cs
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\MemberManagementForm.g.cs
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\App.g.cs
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan_MarkupCompile.cache
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan_MarkupCompile.lref
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\LoginForm.baml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\MainWindow.baml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\MemberManagementForm.baml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.g.resources
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM_System_Development_Plan.Properties.Resources.resources
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.GenerateResource.cache
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.CoreCompileInputs.cache
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.exe
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.pdb
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.AssemblyReference.cache
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\AnalyticsDashboard.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\EngagementLogForm.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\EventManagementForm.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\LoginForm.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\MainWindow.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\MemberManagementForm.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\SalesForm.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\App.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan_MarkupCompile.cache
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan_MarkupCompile.lref
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.exe.config
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.exe
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.pdb
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.dll
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.SqlServer.dll
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.dll
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.dll
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.dll
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.xml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.SqlServer.xml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.pdb
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.xml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.pdb
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.xml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.xml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\AnalyticsDashboard.baml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\EngagementLogForm.baml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\EventManagementForm.baml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\LoginForm.baml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\MainWindow.baml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\MemberManagementForm.baml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\SalesForm.baml
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.g.resources
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM_System_Development_Plan.Properties.Resources.resources
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.GenerateResource.cache
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.CoreCompileInputs.cache
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM Syst.3DD49640.Up2Date
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.exe
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.pdb
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.dll
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.dll
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.pdb
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.xml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.pdb
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.xml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.AssemblyReference.cache
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\AnalyticsDashboard.g.cs
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\EngagementLogForm.g.cs
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\EventManagementForm.g.cs
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\SalesForm.g.cs
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\AnalyticsDashboard.baml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\EngagementLogForm.baml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\EventManagementForm.baml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\SalesForm.baml
+D:\Tahir\Template\uboldadmin-610\F\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM Syst.3DD49640.Up2Date
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\AdminForm.g.cs
+E:\Fiver\CRM System Development Plan\CRM System Development Plan\obj\Debug\AdminForm.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.exe.config
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.exe
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\CRM System Development Plan.pdb
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.dll
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.pdb
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.xml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\AdminForm.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\AnalyticsDashboard.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\EngagementLogForm.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\EventManagementForm.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\LoginForm.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\MemberManagementForm.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\SalesForm.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\App.g.cs
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan_MarkupCompile.cache
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan_MarkupCompile.lref
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\AdminForm.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\AnalyticsDashboard.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\EngagementLogForm.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\EventManagementForm.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\LoginForm.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\MainWindow.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\MemberManagementForm.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\SalesForm.baml
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.g.resources
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM_System_Development_Plan.Properties.Resources.resources
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM Syst.3DD49640.Up2Date
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.exe
+C:\Users\DELL\Downloads\CRM System Development Plan\CRM System Development Plan\obj\Debug\CRM System Development Plan.pdb
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\CRM System Development Plan.exe.config
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\CRM System Development Plan.exe
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\CRM System Development Plan.pdb
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\EntityFramework.dll
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\LiveCharts.dll
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\System.Data.SQLite.dll
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\EntityFramework.xml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\LiveCharts.pdb
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\LiveCharts.xml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\bin\Debug\System.Data.SQLite.xml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.AssemblyReference.cache
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\AdminForm.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\AnalyticsDashboard.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\EngagementLogForm.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\EventManagementForm.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\LoginForm.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\MainWindow.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\MemberManagementForm.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\SalesForm.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\App.g.cs
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM System Development Plan_MarkupCompile.cache
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM System Development Plan_MarkupCompile.lref
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\AdminForm.baml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\AnalyticsDashboard.baml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\EngagementLogForm.baml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\EventManagementForm.baml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\LoginForm.baml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\MainWindow.baml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\MemberManagementForm.baml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\SalesForm.baml
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM System Development Plan.g.resources
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM_System_Development_Plan.Properties.Resources.resources
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.GenerateResource.cache
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM System Development Plan.csproj.CoreCompileInputs.cache
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM Syst.3DD49640.Up2Date
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM System Development Plan.exe
+C:\Users\TahirSamee\Downloads\CRM System Development Plan-1\CRM System Development Plan\obj\Debug\CRM System Development Plan.pdb
