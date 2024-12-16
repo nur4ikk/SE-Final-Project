@@ -1,0 +1,89 @@
+﻿<Window x:Class="CRM_System_Development_Plan.EventManagementForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRM_System_Development_Plan"
+        mc:Ignorable="d"
+        Title="Event Management"  Height="700" Width="1000" WindowStartupLocation="CenterScreen" Background="#F5F5F5">
+    <Grid Margin="20">
+        <!-- Outer Border -->
+        <Border Background="White" CornerRadius="10" Padding="15" BorderBrush="#D3D3D3" BorderThickness="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <!-- Header -->
+                <TextBlock Text="Event Management" FontSize="24" FontWeight="Bold" Foreground="#333"
+                           HorizontalAlignment="Center" Margin="0,0,0,20" />
+                <!-- Search Filters -->
+                <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,10">
+                    
+                    <!-- Member Name/Search TextBox -->
+                    <Label Content="Search by Event Name:" VerticalAlignment="Center" Width="180" Margin="0,0,10,0"/>
+                    <TextBox x:Name="txtSearch" Width="250" Padding="5" Margin="0,0,10,0" />
+
+                    <!-- Search Button -->
+                    <Button Content="Search" Width="80" Height="35" Margin="0,0,10,0" Background="#2196F3"
+        Foreground="White" FontWeight="Bold" BorderBrush="#2196F3" Click="btnSearch_Click"/>
+                </StackPanel>
+                <!-- DataGrid -->
+                <DataGrid x:Name="dgEvents" Grid.Row="2" AutoGenerateColumns="False" Margin="0,10,0,10"
+                          CanUserAddRows="False" SelectionMode="Single" BorderBrush="#D3D3D3" BorderThickness="1"
+                          SelectionChanged="dgEvents_SelectionChanged" IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Event ID" Binding="{Binding EventID}" Width="80" />
+                        <DataGridTextColumn Header="Event Name" Binding="{Binding EventName}" Width="200" />
+                        <DataGridTextColumn Header="Category" Binding="{Binding Category}" Width="150" />
+                        <DataGridTextColumn Header="Date" Binding="{Binding Date}" Width="150" />
+                        <DataGridTextColumn Header="Attendance" Binding="{Binding AttendanceCount}" Width="100" />
+                        <DataGridTextColumn Header="Location" Binding="{Binding Location}" Width="200" />
+                        <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="300" />
+                    </DataGrid.Columns>
+                </DataGrid>
+
+                <!-- Form Inputs -->
+                <StackPanel Grid.Row="3" Orientation="Vertical" Margin="0,10,0,0">
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Event Name:" Width="120" VerticalAlignment="Center" />
+                        <TextBox x:Name="txtEventName" Width="300" Padding="5" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Category:" Width="120" VerticalAlignment="Center" />
+                        <TextBox x:Name="txtCategory" Width="300" Padding="5" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Date:" Width="120" VerticalAlignment="Center" />
+                        <DatePicker x:Name="dpDate" Width="300" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Attendance Count:" Width="120" VerticalAlignment="Center" />
+                        <TextBox x:Name="txtAttendance" Width="300" Padding="5" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Location:" Width="120" VerticalAlignment="Center" />
+                        <TextBox x:Name="txtLocation" Width="300" Padding="5" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <Label Content="Description:" Width="120" VerticalAlignment="Center" />
+                        <TextBox x:Name="txtDescription" Width="300" Padding="5" Height="80" TextWrapping="Wrap" AcceptsReturn="True" />
+                    </StackPanel>
+
+                    <!-- Buttons -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                        <Button Content="Add" Width="100" Height="35" Margin="10" Background="#4CAF50" 
+                                Foreground="White" FontWeight="Bold" BorderBrush="#4CAF50" Click="btnAdd_Click" />
+                        <Button Content="Edit" Width="100" Height="35" Margin="10" Background="#FFC107" 
+                                Foreground="White" FontWeight="Bold" BorderBrush="#FFC107" Click="btnEdit_Click" />
+                        <Button Content="Delete" Width="100" Height="35" Margin="10" Background="#F44336" 
+                                Foreground="White" FontWeight="Bold" BorderBrush="#F44336" Click="btnDelete_Click" />
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
