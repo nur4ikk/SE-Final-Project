@@ -1,0 +1,82 @@
+﻿<Window x:Class="CRM_System_Development_Plan.AdminForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRM_System_Development_Plan"
+        mc:Ignorable="d"
+        Title="AdminForm" Height="700" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+
+        <!-- Membership Type Filter Section -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock Text="Filter by Membership Type" FontWeight="Bold" Margin="0,0,0,10"/>
+            <ComboBox x:Name="MembershipTypeFilter" HorizontalAlignment="Left" Width="200" Margin="0,0,0,20" SelectionChanged="MembershipTypeFilter_SelectionChanged">
+                <ComboBoxItem Content="All" />
+                <ComboBoxItem Content="Community Members" />
+                <ComboBoxItem Content="Key Access Members" />
+                <ComboBoxItem Content="Creative Workspace Members" />
+            </ComboBox>
+        </StackPanel>
+
+        <!-- ListView for Members -->
+        <ListView x:Name="MembersListView" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0,60,0,0" Height="150">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                    <GridViewColumn Header="Membership Type" DisplayMemberBinding="{Binding MembershipType}" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- Event Search Section -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,220,0,10">
+            <TextBlock Text="Search Events or Time Period" FontWeight="Bold" Margin="0,0,0,5"/>
+            <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="500">
+                <TextBox x:Name="EventSearchBox" VerticalAlignment="Center" HorizontalAlignment="Left" Width="200" />
+                <TextBlock x:Name="EventSearchWatermark" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5,0,0,0" Foreground="Gray" IsHitTestVisible="False">
+                    
+                </TextBlock>
+                <Button Content="Search" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="220,0,0,0" Click="SearchEvent_Click"/>
+            </Grid>
+           
+        </StackPanel>
+
+        <!-- ListView for Events -->
+        <ListView x:Name="EventsListView" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0,280,0,0" Height="150">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Event Name" DisplayMemberBinding="{Binding EventName}" Width="200"/>
+                    <GridViewColumn Header="Date" DisplayMemberBinding="{Binding Date}" Width="150"/>
+                    <GridViewColumn Header="Attendance Count" DisplayMemberBinding="{Binding AttendanceCount}" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- Member Search Section -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,440,0,10">
+            <TextBlock Text="Search Members or Guests" FontWeight="Bold" Margin="0,0,0,5"/>
+            <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="500">
+                <TextBox x:Name="MemberSearchBox" VerticalAlignment="Center" HorizontalAlignment="Left" Width="200" />
+                <TextBlock x:Name="MemberSearchWatermark" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5,0,0,0" Foreground="Gray" IsHitTestVisible="False">
+                    
+                </TextBlock>
+                <Button Content="Search" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="220,0,0,0" Click="SearchMember_Click"/>
+            </Grid>
+            
+        </StackPanel>
+
+        <!-- ListView for Engagements -->
+        <ListView x:Name="EngagementsListView" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0,490,0,0" Height="130">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                    <GridViewColumn Header="Event Name" DisplayMemberBinding="{Binding EventName}" Width="200"/>
+                    <GridViewColumn Header="Engagement Date" DisplayMemberBinding="{Binding EngagementDate}" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+
+</Window>
