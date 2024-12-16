@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4A1FD-5E60-4B99-AD54-83DD9C1F7057}|CRM System Development Plan\\CRM System Development Plan.csproj|c:\\users\\tahirsamee\\downloads\\crm system development plan-1\\crm system development plan\\membermanagementform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A0C4A1FD-5E60-4B99-AD54-83DD9C1F7057}|CRM System Development Plan\\CRM System Development Plan.csproj|solutionrelative:crm system development plan\\membermanagementform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4A1FD-5E60-4B99-AD54-83DD9C1F7057}|CRM System Development Plan\\CRM System Development Plan.csproj|c:\\users\\tahirsamee\\downloads\\crm system development plan-1\\crm system development plan\\eventmanagementform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A0C4A1FD-5E60-4B99-AD54-83DD9C1F7057}|CRM System Development Plan\\CRM System Development Plan.csproj|solutionrelative:crm system development plan\\eventmanagementform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4A1FD-5E60-4B99-AD54-83DD9C1F7057}|CRM System Development Plan\\CRM System Development Plan.csproj|c:\\users\\tahirsamee\\downloads\\crm system development plan-1\\crm system development plan\\eventmanagementform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0C4A1FD-5E60-4B99-AD54-83DD9C1F7057}|CRM System Development Plan\\CRM System Development Plan.csproj|solutionrelative:crm system development plan\\eventmanagementform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4A1FD-5E60-4B99-AD54-83DD9C1F7057}|CRM System Development Plan\\CRM System Development Plan.csproj|c:\\users\\tahirsamee\\downloads\\crm system development plan-1\\crm system development plan\\membermanagementform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0C4A1FD-5E60-4B99-AD54-83DD9C1F7057}|CRM System Development Plan\\CRM System Development Plan.csproj|solutionrelative:crm system development plan\\membermanagementform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventManagementForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\CRM System Development Plan\\EventManagementForm.xaml.cs",
+              "RelativeDocumentMoniker": "CRM System Development Plan\\EventManagementForm.xaml.cs",
+              "ToolTip": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\CRM System Development Plan\\EventManagementForm.xaml.cs",
+              "RelativeToolTip": "CRM System Development Plan\\EventManagementForm.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswEkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:43:14.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberManagementForm.xaml",
+              "DocumentMoniker": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\CRM System Development Plan\\MemberManagementForm.xaml",
+              "RelativeDocumentMoniker": "CRM System Development Plan\\MemberManagementForm.xaml",
+              "ToolTip": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\CRM System Development Plan\\MemberManagementForm.xaml",
+              "RelativeToolTip": "CRM System Development Plan\\MemberManagementForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T19:39:15.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventManagementForm.xaml",
+              "DocumentMoniker": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\CRM System Development Plan\\EventManagementForm.xaml",
+              "RelativeDocumentMoniker": "CRM System Development Plan\\EventManagementForm.xaml",
+              "ToolTip": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\CRM System Development Plan\\EventManagementForm.xaml",
+              "RelativeToolTip": "CRM System Development Plan\\EventManagementForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T19:33:01.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberManagementForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\CRM System Development Plan\\MemberManagementForm.xaml.cs",
+              "RelativeDocumentMoniker": "CRM System Development Plan\\MemberManagementForm.xaml.cs",
+              "ToolTip": "C:\\Users\\TahirSamee\\Downloads\\CRM System Development Plan-1\\CRM System Development Plan\\MemberManagementForm.xaml.cs",
+              "RelativeToolTip": "CRM System Development Plan\\MemberManagementForm.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:55:45.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
