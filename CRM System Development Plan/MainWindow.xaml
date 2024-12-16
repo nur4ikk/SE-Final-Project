@@ -1,0 +1,45 @@
+﻿<Window x:Class="CRM_System_Development_Plan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRM_System_Development_Plan"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="1000" WindowStartupLocation="CenterScreen" Background="#F5F5F5">
+    <Grid Margin="20">
+        <Border Background="White" CornerRadius="10" Padding="15" BorderBrush="#D3D3D3" BorderThickness="1">
+            <!-- Use a Grid to better manage layout and centering -->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <!-- TextBlock centered in its own row -->
+                <TextBlock Text="Main Window" FontSize="24" FontWeight="Bold" Foreground="#333"
+                           HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" />
+
+                <!-- StackPanel containing the buttons, first row -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0" Grid.Row="1">
+                    <Button Content="MEMBER" Width="200" Height="100" Margin="10" Background="#4CAF50" 
+                            Foreground="White" FontWeight="Bold" BorderBrush="#4CAF50" Click="OpenMemberButton_Click" />
+                    <Button Content="EVENT" Width="200" Height="100" Margin="10" Background="#4CAF50" 
+                            Foreground="White" FontWeight="Bold" BorderBrush="#4CAF50" Click="OpenEventButton_Click" />
+                    <Button Content="SALES" Width="200" Height="100" Margin="10" Background="#4CAF50" 
+                            Foreground="White" FontWeight="Bold" BorderBrush="#4CAF50" Click="OpenSalesButton_Click" />
+                </StackPanel>
+
+                <!-- StackPanel containing the buttons, second row -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,-247" Grid.Row="1">
+                    <Button Content="ENGAGEMENTLOG" Width="200" Height="100" Margin="10" Background="#4CAF50" 
+                            Foreground="White" FontWeight="Bold" BorderBrush="#4CAF50" Click="OpenEngagementLogButton_Click" />
+                    <Button Content="ANALYTICS" Width="200" Height="100" Margin="10" Background="#4CAF50" 
+                            Foreground="White" FontWeight="Bold" BorderBrush="#4CAF50" Click="OpenAnalyticsButton_Click" />
+                    <Button Content="ADMIN" Width="200" Height="100" Margin="10" Background="#4CAF50" Name="_AdminForm"
+                            Foreground="White" FontWeight="Bold" BorderBrush="#4CAF50" Click="AdminButton_Click" />
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+
+</Window>
